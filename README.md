@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on Driver-Kernel
+- 🔭 I’m currently working on LPA-diddler
 - 🌱 I’m currently learning Golang
 - 🤔 I’m looking for help with Kernel Drivers
 - 💬 Ask me about c++ / c#
